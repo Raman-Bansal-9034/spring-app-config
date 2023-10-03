@@ -1,0 +1,1 @@
+This file contain common code for configuration of our spring boot project eureka server.
